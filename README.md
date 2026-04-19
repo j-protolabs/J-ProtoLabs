@@ -8,7 +8,7 @@ Focused on embedded systems, IoT, and rapid product development — turning idea
 
 ## 🔧 What I Do
 
-- Embedded systems development (ESP8266, microcontrollers)
+- Embedded systems development (ESP8266, ESP32, STM32 microcontrollers)
 - Firmware & hardware integration
 - 3D design (CAD) and 3D printing
 - Rapid prototyping & product development
@@ -48,8 +48,8 @@ End-to-end builds combining hardware, software, and physical design.
 
 ## 🛠️ Tools & Technologies
 
-- Languages: C/C++, Python, Arduino
-- Hardware: ESP8266, ESP32, microcontrollers
+- Languages: C/C++, Python, Arduino, Swift
+- Hardware: ESP8266, ESP32, STM32, microcontrollers
 - CAD: Fusion 360
 - 3D Printing: FDM printing
 - Other: Electronics prototyping, circuit design

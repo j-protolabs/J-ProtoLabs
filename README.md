@@ -70,7 +70,7 @@ I focus on building practical, working solutions — not just concepts.
 ## 📫 Contact
 
 - GitHub: https://github.com/j-protolabs
-- Email: contact@j-protolabs.info
+- Email: info@protolabs.com
 
 ---
 
